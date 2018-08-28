@@ -4117,6 +4117,10 @@ react-is@^16.4.1:
   version "16.4.2"
   resolved "http://registry.npm.taobao.org/react-is/download/react-is-16.4.2.tgz#84891b56c2b6d9efdee577cc83501dfc5ecead88"
 
+react-native-billing@^2.9.1:
+  version "2.9.1"
+  resolved "http://registry.npm.taobao.org/react-native-billing/download/react-native-billing-2.9.1.tgz#08e8d595db20f349d24bfc52591cd907e6b0cb2b"
+
 react-native@0.56.0:
   version "0.56.0"
   resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.56.0.tgz#66686f781ec39a44376aadd4bbc55c8573ab61e5"
